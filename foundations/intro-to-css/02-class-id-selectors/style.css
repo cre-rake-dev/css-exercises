@@ -1,1 +1,19 @@
 /* Add CSS Styling */
+.number {
+    background-color: pink;
+    font-family: Verdana, "DejaVu", sans-serif;
+}
+
+#preview{
+    color: blue;
+    font-size: 36px;
+}
+
+.size{
+    font-size: 24px;
+}
+
+#preview2{
+    background-color: rgb(153, 233, 153);
+    font-weight: bold;
+}
